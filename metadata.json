@@ -1,0 +1,5 @@
+{
+  "name": "Charity Treasurer Hub",
+  "description": "A web application for treasurers of charitable organizations to manage donations, expenses, and generate financial summaries using AI.",
+  "requestFramePermissions": []
+}
